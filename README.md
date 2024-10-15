@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Tu Nombre] / ¡Hola! Soy Emiliano De Biasi
+# 👋 Hi there! I'm Emiliano De Biasi / ¡Hola! Soy Emiliano De Biasi
 
 ### 🌱 About Me / Sobre Mí
 I'm a passionate **Frontend Developer** focused on building dynamic and responsive web applications. I love creating engaging user experiences using modern web technologies.  
