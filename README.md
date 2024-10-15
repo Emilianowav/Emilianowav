@@ -22,7 +22,7 @@ Soy un **Desarrollador Frontend** apasionado por construir aplicaciones web din�
 
 ### 🤝 Let's Connect! / ¡Conectemos!
 - [LinkedIn](https://www.linkedin.com/in/emiliano-de-biasi-92b202236/)
-- [Email] emidbiasi@gmail.com
+- Email: emidbiasi@gmail.com
 
 Feel free to reach out if you're interested in collaboration or just want to chat about technology and design!  
 ¡No dudes en contactarme si estás interesado en colaborar o simplemente quieres charlar sobre tecnología y diseño!
